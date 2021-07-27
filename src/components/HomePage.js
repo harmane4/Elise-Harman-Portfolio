@@ -7,7 +7,7 @@ import Contact from "./pages/Contact";
 import Resume from "./pages/Resume";
 
 export default function HomePage() {
-  const [currentPage, setCurrentPage] = useState("Home");
+  const [currentPage, setCurrentPage] = useState("About");
   const renderPage = () => {
     if (currentPage === "Portfolio") {
       return <Portfolio />;
