@@ -1,0 +1,43 @@
+a {
+  font-weight: bold;
+}
+
+.overlay-area {
+  position: relative;
+  width: 100%;
+}
+
+.hovered-image {
+  position: relative;
+  width: 400px;
+}
+
+.image-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.486);
+  color: white;
+  font-family: "Lustria", serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+}
+
+.image-overlay:hover {
+  opacity: 1;
+}
+
+.tools {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.tools-description {
+  font-size: 1.25em;
+  margin-top: 0.25em;
+}
