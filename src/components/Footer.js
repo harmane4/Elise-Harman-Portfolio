@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer className="footer">
       <div className="container">
-        <div className="columns is-vcentered">
+        <div className="columns is-centered">
           <div className="column has-text-centered">
             <div className="buttons is-justify-content-center">
               <a
@@ -26,13 +26,6 @@ export default function Footer() {
                 target="blank"
               >
                 GitHub
-              </a>
-              <a
-                className="button is-info"
-                href="Assests/images/ResumeEliseHarman.pdf"
-                target="blank"
-              >
-                Resume
               </a>
             </div>
           </div>

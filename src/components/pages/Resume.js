@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Resume() {
   return (
-    <div>
+    <div className="container is-fluid">
       <h2>Elise Harman</h2>
       <h1>Resume</h1>
       <div className="buttons is-justify-content-center">

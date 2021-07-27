@@ -1,9 +1,9 @@
 import React from "react";
-import image from "./headshot.jpg";
+import image from "../../images/headshot.jpg";
 
 export default function About() {
   return (
-    <div>
+    <div className="container is-fluid">
       <h1>
         HELLO I'M <span className="content has-text-info-dark">ELISE</span>
       </h1>

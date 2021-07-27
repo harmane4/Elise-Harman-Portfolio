@@ -5,10 +5,11 @@ import GigglesAndFood from "../../images/gigglesAndfFood.png";
 import TechBlog from "../../images/TechBlog.png";
 import DayScheduler from "../../images/Scheduler.png";
 import BudgetApp from "../../images/budgetapp.png";
+import "./Portfolio.css";
 
 export default function Portfolio() {
   return (
-    <div>
+    <div className="container is-fluid">
       <h1>My Work</h1>
       <div className="container is-fluid">
         <section className="columns is-multiline">
@@ -28,6 +29,7 @@ export default function Portfolio() {
                 </p>
               </div>
             </div>
+
             <div className="container-content content-has-text-white">
               <p className="has-text-black has-text-centered is-size-5 has-text-info-dark has-text-weight-bold">
                 Weather Dashboard
@@ -48,6 +50,7 @@ export default function Portfolio() {
               Visit Site
             </a>
           </div>
+
           <div className="column is-half">
             <div className="overlay-area">
               <figure className="image is-3by2">
@@ -60,8 +63,8 @@ export default function Portfolio() {
               <div className="image-overlay">
                 <div className="tools">Tools</div>
                 <p className="tools-description">
-                  MySQL, Express.JS, Heroku, Node.JS, Handlebars, Sequelize,
-                  Chalk & Bycrpt
+                  MySQL, Express, Heroku, Node, Handlebars, Sequelize, Chalk &
+                  Bycrpt
                 </p>
               </div>
             </div>
