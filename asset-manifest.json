@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/Elise-Harman-Portfolio/static/css/main.f8e15043.chunk.css",
-    "main.js": "/Elise-Harman-Portfolio/static/js/main.886b1de9.chunk.js",
-    "main.js.map": "/Elise-Harman-Portfolio/static/js/main.886b1de9.chunk.js.map",
+    "main.css": "/Elise-Harman-Portfolio/static/css/main.14de9161.chunk.css",
+    "main.js": "/Elise-Harman-Portfolio/static/js/main.cbea8929.chunk.js",
+    "main.js.map": "/Elise-Harman-Portfolio/static/js/main.cbea8929.chunk.js.map",
     "runtime-main.js": "/Elise-Harman-Portfolio/static/js/runtime-main.53028d92.js",
     "runtime-main.js.map": "/Elise-Harman-Portfolio/static/js/runtime-main.53028d92.js.map",
     "static/css/2.41953c31.chunk.css": "/Elise-Harman-Portfolio/static/css/2.41953c31.chunk.css",
-    "static/js/2.a1264534.chunk.js": "/Elise-Harman-Portfolio/static/js/2.a1264534.chunk.js",
-    "static/js/2.a1264534.chunk.js.map": "/Elise-Harman-Portfolio/static/js/2.a1264534.chunk.js.map",
+    "static/js/2.79c77172.chunk.js": "/Elise-Harman-Portfolio/static/js/2.79c77172.chunk.js",
+    "static/js/2.79c77172.chunk.js.map": "/Elise-Harman-Portfolio/static/js/2.79c77172.chunk.js.map",
     "index.html": "/Elise-Harman-Portfolio/index.html",
     "static/css/2.41953c31.chunk.css.map": "/Elise-Harman-Portfolio/static/css/2.41953c31.chunk.css.map",
-    "static/css/main.f8e15043.chunk.css.map": "/Elise-Harman-Portfolio/static/css/main.f8e15043.chunk.css.map",
-    "static/js/2.a1264534.chunk.js.LICENSE.txt": "/Elise-Harman-Portfolio/static/js/2.a1264534.chunk.js.LICENSE.txt",
+    "static/css/main.14de9161.chunk.css.map": "/Elise-Harman-Portfolio/static/css/main.14de9161.chunk.css.map",
+    "static/js/2.79c77172.chunk.js.LICENSE.txt": "/Elise-Harman-Portfolio/static/js/2.79c77172.chunk.js.LICENSE.txt",
     "static/media/Scheduler.2b976a16.png": "/Elise-Harman-Portfolio/static/media/Scheduler.2b976a16.png",
     "static/media/TechBlog.f2cfe4ed.png": "/Elise-Harman-Portfolio/static/media/TechBlog.f2cfe4ed.png",
     "static/media/budgetapp.43f7b956.png": "/Elise-Harman-Portfolio/static/media/budgetapp.43f7b956.png",
     "static/media/gigglesAndfFood.155ab75c.png": "/Elise-Harman-Portfolio/static/media/gigglesAndfFood.155ab75c.png",
+    "static/media/index.css": "/Elise-Harman-Portfolio/static/media/gradienta-7brhZmwXn08-unsplash.e5e319b3.jpg",
     "static/media/headshot.d6cd9f72.jpg": "/Elise-Harman-Portfolio/static/media/headshot.d6cd9f72.jpg",
     "static/media/login.1c3d800a.png": "/Elise-Harman-Portfolio/static/media/login.1c3d800a.png",
     "static/media/weatherDashboard.f816b3c0.png": "/Elise-Harman-Portfolio/static/media/weatherDashboard.f816b3c0.png"
@@ -23,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.53028d92.js",
     "static/css/2.41953c31.chunk.css",
-    "static/js/2.a1264534.chunk.js",
-    "static/css/main.f8e15043.chunk.css",
-    "static/js/main.886b1de9.chunk.js"
+    "static/js/2.79c77172.chunk.js",
+    "static/css/main.14de9161.chunk.css",
+    "static/js/main.cbea8929.chunk.js"
   ]
 }
