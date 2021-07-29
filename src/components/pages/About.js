@@ -1,16 +1,24 @@
 import React from "react";
 import image from "../../images/headshot.jpg";
+import "./About.css";
 
 export default function About() {
   return (
     <div className="container is-fluid">
-      <h1>
-        HELLO I'M <span className="content has-text-info-dark">ELISE</span>
+      <h1 className="content is-size-1">
+        HELLO I'M
+        <span id="introduction" className="content  is-size-1">
+          {" "}
+          ELISE
+        </span>
       </h1>
       <p>
         I am a full stack
-        <span className="content has-text-info-dark"> web developer</span> based
-        in Perth.
+        <span id="text" className="content">
+          {" "}
+          web developer
+        </span>{" "}
+        based in Perth.
       </p>
       <p>
         Long gone is the idea that your web developer is a middle aged man
@@ -23,7 +31,7 @@ export default function About() {
       <div className="columns is-centered">
         <div className="column is-one-quarter">
           <figure className="image is-200x200">
-            <img src={image} alt="Headshot of Elise Harman"></img>
+            <img id="headshot" src={image} alt="Headshot of Elise Harman"></img>
           </figure>
         </div>
       </div>

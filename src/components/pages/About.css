@@ -1,0 +1,24 @@
+h1 {
+  font-size: larger;
+  font-family: "Flamenco", cursive;
+  color: #424c55;
+}
+
+p {
+  font-family: "Lustria", serif;
+}
+
+#text {
+  font-weight: bolder;
+  color: #424c55;
+}
+
+#introduction {
+  font-weight: bolder;
+}
+
+#headshot {
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+  border-radius: 25px;
+}

@@ -1,12 +1,12 @@
 import React, { useState } from "react";
-import NavBar from "./NavBar";
+import Header from "./Header";
 import Footer from "./Footer";
 import Portfolio from "./pages/Portfolio";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Resume from "./pages/Resume";
 
-export default function HomePage() {
+export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState("About");
   const renderPage = () => {
     if (currentPage === "Portfolio") {
@@ -25,7 +25,7 @@ export default function HomePage() {
 
   return (
     <div>
-      <NavBar currentPage={currentPage} handlePageChange={handlePageChange} />
+      <Header currentPage={currentPage} handlePageChange={handlePageChange} />
       {renderPage()}
       <Footer />
     </div>
